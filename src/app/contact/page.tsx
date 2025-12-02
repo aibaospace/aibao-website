@@ -47,7 +47,7 @@ export default function ContactPage() {
                         </h2>
                         <div className="flex flex-col gap-4">
                             <a
-                                href="mailto:zhaopu@gmail.com"
+                                href="mailto:piu93593@gmail.com"
                                 className="group relative inline-flex items-center gap-4 text-lg font-bold text-moss-grey transition-colors hover:text-neon-orange md:text-2xl"
                             >
                                 <span>Research Scientist: Pu Zhao</span>
