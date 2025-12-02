@@ -14,8 +14,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AIBao Research | Democratizing Intelligence",
-  description: "AIBao Research: Democratizing Large Language Models through high-fidelity quantization and open-source innovation. Home of Moxin-7B and the Model Openness Framework.",
+  title: "AIBAO | Accelerating Local Intelligence",
+  description: "AIBao LLC: Democratizing Large Language Models through high-fidelity quantization and open-source innovation.",
+  icons: {
+    icon: "/aibao_logo_black_icon.png",
+  },
 };
 
 export default function RootLayout({
